@@ -4,7 +4,7 @@ My email is: alejandro.com.net@gmail.com
 User´s Manual step by step
 
 
-![CUBO](https://i.pinimg.com/originals/ae/31/0a/ae310ae5bdce22613948732d4805ab5a.gif)
+![CUBO](/Evidencias/morseCapturaEntrada.JPG)
 
 
 1) Doble clic in file...
